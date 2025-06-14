@@ -14,19 +14,21 @@ string func2print(string comment) {
 void main()
 {
     cout << "We commit this code with VS Studio!!!";
+
+    //перший
     funcHello();
 
 
 
 
-    //перший
+    //другий
 
     float a, b;
     cin >> a >> b;
     cout << a * b;
 
 
-    // другий
+    // третій
 
     string comment;
     cout << "Enter your comment: ";
