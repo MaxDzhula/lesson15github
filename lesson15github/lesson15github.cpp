@@ -33,6 +33,6 @@ void main()
     string comment;
     cout << "Enter your comment: ";
     cin >> comment;
-    cout << func2print;
+    cout << func2print(comment);
 }
 
