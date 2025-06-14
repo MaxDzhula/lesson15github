@@ -10,6 +10,6 @@ void funcHello() {
 void main()
 {
     cout << "We commit this code with VS Studio!!!";
-    funcHello();jj
+    funcHello();
 }
 
